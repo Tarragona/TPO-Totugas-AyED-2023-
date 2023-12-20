@@ -295,7 +295,7 @@ def menu():
 # 1. La función ejecuta el menú principal del programa y permite al usuario interactuar con las opciones disponibles.
 
 def main():
-    nombre_archivo = 'HomePlay_Stock_aux13'
+    nombre_archivo = 'HomePlay_Stock'
     archivo = leer_archivo(nombre_archivo)
     while True:
         menu()
